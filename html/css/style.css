@@ -1,0 +1,11 @@
+html, body {
+    margin: 0;padding: 0;
+    background-color: white;
+}
+
+.inner {
+    width: auto;
+    font-family: Teko, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, sans-serif;
+    color: black;
+    background-color: black;
+}

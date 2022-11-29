@@ -1,0 +1,30 @@
+.menu {
+  background-color: #121618;
+  height: 117px;
+
+}
+
+.m-right {
+  outline: none;
+  text-decoration: none;
+  font-size: 25px;
+  margin: 5px 6em;
+  padding: 35px 3em;
+  display: inline-block;
+  word-spacing: 20px;
+}
+
+a {
+  outline: none;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+img {
+  width: 7em;
+  position: absolute;
+  padding: 5px 3em;
+}
+
+

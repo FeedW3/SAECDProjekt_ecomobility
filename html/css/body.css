@@ -1,0 +1,14 @@
+.titre {
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    padding: 50px 0 11em;
+    border: solid;
+    background-color: white;
+    border-style: none;
+    letter-spacing: 15px;
+}
+
+.body {
+    text-align: left;
+}
