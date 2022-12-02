@@ -5,7 +5,8 @@ html, body {
 
 .inner {
     width: auto;
-    font-family: Teko, -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, sans-serif;
+    font-family: proxima-nova-extra-condensed,sans-serif;
+    font-weight: 800;
     color: black;
     background-color: black;
 }
