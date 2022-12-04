@@ -1,0 +1,22 @@
+footer {
+    background-color: #171717;
+}
+
+
+.footer {
+    font-size: 13px;
+    margin: 0;
+    padding: 17px 2em 10px 60px;
+}
+
+footer li {
+    display: inline-block;
+    position: relative;
+    padding: 1em;
+}
+
+.footer-copyright{
+    color: gray;
+    font-size: 12px;
+    padding: 5px;
+}
