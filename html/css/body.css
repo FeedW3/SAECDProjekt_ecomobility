@@ -9,7 +9,7 @@
     letter-spacing: 15px;
 }
 
-.body {
+main {
     text-align: left;
     background-color: white;
 }
@@ -18,3 +18,8 @@ h2 {
     padding: 0;
     margin: 0;
 }
+
+input {
+    width: 207px;
+}
+
