@@ -21,7 +21,7 @@
 					<li><a href="./locavelo.html">LOCAVÉLO</a></li>
 					<li><a href="#">L'ENTREPRISE</a>
 						<ul class="sous-menu">
-							<li><a href="./demarchesRSE.html">DÉMARCHES RSE</a></li>
+							<li><a href="./engagements.html">ENGAGEMENTS</a></li>
 							<li><a href="./politique.html">POLITIQUE</a></li>
 							<li><a href="./contact.html">CONTACTER</a></li>
 							<li><a href="propos.html">À PROPOS</a></li>
@@ -31,9 +31,26 @@
 			</nav>
 		</header>
 		<body>
-			<div class="titre">
-				<h1>Notre contact</h1>
-			</div>
+			<main>
+				<div class="titre">
+					<h1>Notre contact</h1>
+				</div>
+					<form method="POST" class="form-contact" action="./remerciements/remerciement_newsletter.html">
+						<p>
+						<label for="NomPrenom">Nom Prénom:</label>
+						<input id="NomPrenom" type="text">
+						</p>
+						<p>
+						<label for="Email">Adresse Email:</label>
+						<input id="Email" type="email" placeholder="example@gmail.com" name="mail" required>
+						</p>
+						<p>
+							<label for="Comment">Commentaire:</label>
+							<input id="Comment" size="5" placeholder="Ecrivez votre demande ici..." type="text"  required>
+						</p>
+						<input type="submit">
+					</form>
+			</main>
 		</body>
 		<footer class="footer">
 			<ul>
