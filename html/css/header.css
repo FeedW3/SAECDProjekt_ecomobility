@@ -9,6 +9,12 @@
   font-size: 21px;
   margin: 0 6em;
   padding: 27px 3em;
+  display: flex;
+  gap: 10px;
+}
+
+.m-right>ul>li:last-child {
+  flex-grow: 4;
 }
 
 a {

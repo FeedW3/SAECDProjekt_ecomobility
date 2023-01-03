@@ -5,7 +5,7 @@
 
 html, body {
     margin: 0;padding: 0;
-    background-color: white;
+    background-color: transparent;
 }
 
 .inner {
@@ -13,5 +13,5 @@ html, body {
     font-family: proxima-nova-extra-condensed,sans-serif;
     font-weight: 800;
     color: black;
-    background-color: black;
+    background-color: transparent;
 }
