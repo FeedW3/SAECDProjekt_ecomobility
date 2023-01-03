@@ -1,4 +1,5 @@
 .titre {
+    color: #ef2c33;
     font-size: 40px;
     font-weight: bolder;
     text-align: center;
@@ -15,18 +16,27 @@ body main {
 }
 
 .form-contact {
-    padding: 200px 35%;
+    padding: 50px 4%;
 }
+
 form  { display: table;      }
 p     { display: table-row;  }
 label,input { display: table-cell; }
 
 h2 {
+    color: #ef2c33;
     padding: 0;
-    margin: 0;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+h3 {
+    margin-left: 30px;
 }
 
 input {
     width: 207px;
+    margin-left: 30px;
+    margin-bottom: 20px;
 }
 
